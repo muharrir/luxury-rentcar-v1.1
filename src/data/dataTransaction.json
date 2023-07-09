@@ -1,0 +1,39 @@
+{
+	"transaction": [
+		{
+			"id": 1,
+			"name": "Prasbudi Witantra",
+			"total_price": "795.000",
+			"rental_date": "18 Januari 2023",
+			"status": 1
+		},
+		{
+			"id": 2,
+			"name": "Bambang Budiman",
+			"total_price": "1.220.000",
+			"rental_date": "01 Februari 2023",
+			"status": 2
+		},
+		{
+			"id": 3,
+			"name": "Dhanny Narendra",
+			"total_price": "805.000",
+			"rental_date": "20 Maret 2023",
+			"status": 3
+		},
+		{
+			"id": 4,
+			"name": "Supriono Bubum",
+			"total_price": "990.000",
+			"rental_date": "22 Maret 2023",
+			"status": 2
+		},
+		{
+			"id": 5,
+			"name": "Muharrir",
+			"total_price": "2.200.000",
+			"rental_date": "12 April 2023",
+			"status": 1
+		}
+	]
+}

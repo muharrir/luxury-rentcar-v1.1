@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "tag": "New Toyota",
+    "name": "Supra GR",
+    "brand": "Toyota",
+    "price": "1.000.000",
+    "thumbnail": "/assets/images/supra2.jpg",
+    "spec": [
+      { "id": 1, "text": "255 Horse Power" },
+      { "id": 2, "text": "2 Seats" },
+      { "id": 3, "text": "Supercharger Turbo" },
+      { "id": 4, "text": "8 Speeds AT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "12 SP JBL Speakers" },
+      { "id": 7, "text": "Front Engine" },
+      { "id": 8, "text": "Rear-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/supra1.jpg", "alt": "supra-1" },
+      { "id": 2, "url": "/assets/images/supra2.jpg", "alt": "supra-2" },
+      { "id": 3, "url": "/assets/images/supra3.jpg", "alt": "supra-3" },
+      { "id": 4, "url": "/assets/images/supra4.jpg", "alt": "supra-4" }
+    ]
+  },
+  {
+    "id": 2,
+    "tag": "New Toyota",
+    "name": "Yaris GR",
+    "brand": "Toyota",
+    "price": "800.000",
+    "thumbnail": "/assets/images/yaris2.png",
+    "spec": [
+      { "id": 1, "text": "257 Horse Power" },
+      { "id": 2, "text": "4 Seats" },
+      { "id": 3, "text": "Turbocharger" },
+      { "id": 4, "text": "6 Speeds MT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "JBL premium audio" },
+      { "id": 7, "text": "Blind Spot Monitor" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/yaris2.png", "alt": "yaris-1" },
+      { "id": 2, "url": "/assets/images/yaris3.png", "alt": "yaris-2" },
+      { "id": 3, "url": "/assets/images/yaris1.png", "alt": "yaris-3" },
+      { "id": 4, "url": "/assets/images/yaris4.png", "alt": "yaris-4" }
+    ]
+  },
+  {
+    "id": 3,
+    "tag": "New Toyota",
+    "name": "Fortuner GR",
+    "brand": "Toyota",
+    "price": "600.000",
+    "thumbnail": "/assets/images/fortuner1.jpg",
+    "spec": [
+      { "id": 1, "text": "200 Horse Power" },
+      { "id": 2, "text": "7 Seats" },
+      { "id": 3, "text": "1GD Engine Diesel" },
+      { "id": 4, "text": "6 Speeds AT" },
+      { "id": 5, "text": "Traction Control" },
+      { "id": 6, "text": "7 SRS Airbags" },
+      { "id": 6, "text": "Toyota CarPlay" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/fortuner1.jpg", "alt": "fortuner-1" },
+      { "id": 2, "url": "/assets/images/fortuner2.jpg", "alt": "fortuner-2" },
+      { "id": 3, "url": "/assets/images/fortuner3.jpg", "alt": "fortuner-3" },
+      { "id": 4, "url": "/assets/images/fortuner4.jpg", "alt": "fortuner-4" }
+    ]
+  },
+  {
+    "id": 4,
+    "tag": "New Toyota",
+    "name": "Corolla GR",
+    "brand": "Toyota",
+    "price": "900.000",
+    "thumbnail": "/assets/images/corolla1.webp",
+    "spec": [
+      { "id": 1, "text": "300 Horse Power" },
+      { "id": 2, "text": "4 Seats" },
+      { "id": 3, "text": "Turbocharger" },
+      { "id": 4, "text": "6 Speeds MT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "JBL premium audio" },
+      { "id": 6, "text": "Apple CarPlay" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/corolla1.webp", "alt": "corolla-1" },
+      { "id": 2, "url": "/assets/images/corolla2.webp", "alt": "corolla-2" },
+      { "id": 3, "url": "/assets/images/corolla3.webp", "alt": "corolla-3" },
+      { "id": 4, "url": "/assets/images/corolla4.webp", "alt": "corolla-4" }
+    ]
+  },
+  {
+    "id": 5,
+    "tag": "New Toyota",
+    "name": "Supra GR",
+    "brand": "Toyota",
+    "price": "1.000.000",
+    "thumbnail": "/assets/images/supra2.jpg",
+    "spec": [
+      { "id": 1, "text": "255 Horse Power" },
+      { "id": 2, "text": "2 Seats" },
+      { "id": 3, "text": "Supercharger Turbo" },
+      { "id": 4, "text": "8 Speeds AT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "12 SP JBL Speakers" },
+      { "id": 7, "text": "Front Engine" },
+      { "id": 8, "text": "Rear-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/supra1.jpg", "alt": "supra-1" },
+      { "id": 2, "url": "/assets/images/supra2.jpg", "alt": "supra-2" },
+      { "id": 3, "url": "/assets/images/supra3.jpg", "alt": "supra-3" },
+      { "id": 4, "url": "/assets/images/supra4.jpg", "alt": "supra-4" }
+    ]
+  },
+  {
+    "id": 6,
+    "tag": "New Toyota",
+    "name": "Yaris GR",
+    "brand": "Toyota",
+    "price": "800.000",
+    "thumbnail": "/assets/images/yaris2.png",
+    "spec": [
+      { "id": 1, "text": "257 Horse Power" },
+      { "id": 2, "text": "4 Seats" },
+      { "id": 3, "text": "Turbocharger" },
+      { "id": 4, "text": "6 Speeds MT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "JBL premium audio" },
+      { "id": 7, "text": "Blind Spot Monitor" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/yaris2.png", "alt": "yaris-1" },
+      { "id": 2, "url": "/assets/images/yaris3.png", "alt": "yaris-2" },
+      { "id": 3, "url": "/assets/images/yaris1.png", "alt": "yaris-3" },
+      { "id": 4, "url": "/assets/images/yaris4.png", "alt": "yaris-4" }
+    ]
+  },
+  {
+    "id": 7,
+    "tag": "New Toyota",
+    "name": "Fortuner GR",
+    "brand": "Toyota",
+    "price": "600.000",
+    "thumbnail": "/assets/images/fortuner1.jpg",
+    "spec": [
+      { "id": 1, "text": "200 Horse Power" },
+      { "id": 2, "text": "7 Seats" },
+      { "id": 3, "text": "1GD Engine Diesel" },
+      { "id": 4, "text": "6 Speeds AT" },
+      { "id": 5, "text": "Traction Control" },
+      { "id": 6, "text": "7 SRS Airbags" },
+      { "id": 6, "text": "Toyota CarPlay" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/fortuner1.jpg", "alt": "fortuner-1" },
+      { "id": 2, "url": "/assets/images/fortuner2.jpg", "alt": "fortuner-2" },
+      { "id": 3, "url": "/assets/images/fortuner3.jpg", "alt": "fortuner-3" },
+      { "id": 4, "url": "/assets/images/fortuner4.jpg", "alt": "fortuner-4" }
+    ]
+  },
+  {
+    "id": 8,
+    "tag": "New Toyota",
+    "name": "Corolla GR",
+    "brand": "Toyota",
+    "price": "900.000",
+    "thumbnail": "/assets/images/corolla1.webp",
+    "spec": [
+      { "id": 1, "text": "300 Horse Power" },
+      { "id": 2, "text": "4 Seats" },
+      { "id": 3, "text": "Turbocharger" },
+      { "id": 4, "text": "6 Speeds MT" },
+      { "id": 5, "text": "Find My Car" },
+      { "id": 6, "text": "JBL premium audio" },
+      { "id": 7, "text": "Apple CarPlay" },
+      { "id": 8, "text": "Four-Wheel drive" },
+      { "id": 9, "text": "Pickup Delivery" }
+    ],
+    "carousel": [
+      { "id": 1, "url": "/assets/images/corolla1.webp", "alt": "corolla-1" },
+      { "id": 2, "url": "/assets/images/corolla2.webp", "alt": "corolla-2" },
+      { "id": 3, "url": "/assets/images/corolla3.webp", "alt": "corolla-3" },
+      { "id": 4, "url": "/assets/images/corolla4.webp", "alt": "corolla-4" }
+    ]
+  }
+]
